@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calc2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="entrada">Digite um numero</string>
+    <string name="soma">Somar</string>
+    <string name="menos">Subtrair</string>
+    <string name="multiplica">*</string>
+    <string name="divisao">/</string>
+    <string name="resposta">Resposta :</string>
+
+</resources>
